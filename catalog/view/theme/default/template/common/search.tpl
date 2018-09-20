@@ -1,0 +1,1 @@
+<form class="navbar-form navbar-right" role="search">    <div class="form-group">        <input type="text" class="form-control" placeholder="Search">    </div>    <button  id="_button-search" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button></form>

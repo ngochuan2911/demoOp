@@ -1,0 +1,1 @@
+<?php if ($modules) { ?><div class="col-xs-12 col-md-4 pull-right sidebar">    <?php foreach ($modules as $module) { ?><?php echo $module; ?><?php } ?></div><?php } ?>
